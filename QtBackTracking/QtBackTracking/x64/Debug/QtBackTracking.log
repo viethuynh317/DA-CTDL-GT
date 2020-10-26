@@ -1,0 +1,5 @@
+﻿  moc QtBackTracking.h
+  QtBackTracking.cpp
+  main.cpp
+  moc_QtBackTracking.cpp
+  QtBackTracking.vcxproj -> C:\Users\DMX\source\repos\QtBackTracking\x64\Debug\QtBackTracking.exe
